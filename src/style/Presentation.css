@@ -257,6 +257,7 @@
 
 @media screen and (max-width: 1200px) {
   .box .myAdj {
-    font-size: 44px;
+    font-size: 30px;
+    padding: 0px;
   }
 }
