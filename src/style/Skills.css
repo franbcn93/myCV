@@ -1,0 +1,21 @@
+.paddingTop {
+  padding: 50px;
+}
+
+.fadeIn2 {
+  animation-duration: 3s;
+}
+
+@import url(https://fonts.googleapis.com/css?family=VT323);
+
+.skills {
+  color: black;
+  font-family: "VT323";
+}
+
+.myCard {
+  padding: 5px;
+  background-color: lightcyan;
+  box-shadow: 10px 14px 2px 0 rgba(0, 0, 0, 0.2);
+  min-width: 100px;
+}

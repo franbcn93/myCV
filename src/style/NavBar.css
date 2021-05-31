@@ -1,0 +1,52 @@
+.navbarEx {
+  position: sticky;
+  background-color: #1b4332;
+  top: 0;
+  z-index: 10;
+  padding: 23px;
+  transition: all 0.4s ease-in-out;
+}
+
+/* Texto de la cabezera */
+
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-toggler,
+.navbar-light .navbar-nav .nav-link.active {
+  color: white;
+  font-size: 2em;
+  font-family: "Passion One";
+  letter-spacing: 1.7px;
+}
+.textColor,
+.nav-link {
+  margin-left: 50px;
+  margin-right: 30px;
+}
+.mr-auto,
+.navbar-light .navbar-nav .nav-link {
+  text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+  .myBrand {
+    padding-left: 190px;
+  }
+  .lastNav {
+    padding-right: 140px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .myBrand {
+    padding-left: 8%;
+  }
+}
+
+.navbarEx.colorChange {
+  /* background-color: #000; */
+  background: -webkit-linear-gradient(59deg, #343a40, #16222a);
+  background: linear-gradient(59deg, #343a40, #adb5bd);
+  padding: 10px;
+  /* transition: all 0.4s ease-in-out; */
+}

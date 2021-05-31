@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+.sendMsn,
+.infForm {
+  text-align: center;
+  padding: 50px;
+}
+
+.myPadding {
+  padding-bottom: 40px;
+}
+
+.infForm {
+  font-family: "Dancing Script";
+  font-size: 95px;
+  letter-spacing: 2px;
+  line-height: 0.9em;
+  color: #118ab2;
+  font-weight: bold;
+}
+
+.contact-form {
+  background-color: #bee1e6;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+/* .padding1 {
+  padding: 30px;
+} */
