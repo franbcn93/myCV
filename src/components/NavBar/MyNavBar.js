@@ -19,7 +19,8 @@ const MyNavBar = () => {
         expand="lg"
         className={colorChange ? "navbarEx colorChange" : "navbarEx"}
       >
-        <Navbar.Brand className="myBrand" href="/">
+        {/* <Navbar.Brand className="myBrand" href="/"> */}
+        <Navbar.Brand className="myBrand" href="#inicio">
           Inicio
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -36,6 +37,7 @@ const MyNavBar = () => {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
+      <div id="inicio"></div>
     </>
   );
 };

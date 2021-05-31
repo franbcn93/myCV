@@ -243,14 +243,20 @@
 
 @media screen and (max-width: 760px) {
   .mySpace {
-    padding: 0px;
-    font-size: 26px;
+    padding: 20px 0px;
+    font-size: 31px;
   }
 }
 
 @media screen and (min-width: 761px) and (max-width: 1200px) {
   .mySpace {
-    padding: 21px;
+    padding: 4px;
     font-size: 39px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .box .myAdj {
+    font-size: 44px;
   }
 }

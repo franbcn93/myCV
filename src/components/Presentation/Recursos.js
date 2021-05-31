@@ -11,7 +11,7 @@ export default class Recursos extends Component {
         <h1 className="offer">Conocimientos en prácticas</h1>
         <Container>
           <Row>
-            <Col>
+            <Col xs={12} sm={6}>
               <ScrollAnimation
                 delay={600}
                 animateIn="flipInY"
@@ -20,7 +20,7 @@ export default class Recursos extends Component {
                 <Image className="myImg" src={imagen5} rounded />
               </ScrollAnimation>
             </Col>
-            <Col>
+            <Col xs={12} sm={6}>
               <ScrollAnimation animateIn="fadeIn">
                 <h2 className="mySpace">
                   Creación de contenedores e imágenes para un ERP
