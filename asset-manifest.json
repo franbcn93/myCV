@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myCV/static/css/main.426af60f.chunk.css",
+    "main.js": "/myCV/static/js/main.ea0bd3f8.chunk.js",
+    "main.js.map": "/myCV/static/js/main.ea0bd3f8.chunk.js.map",
+    "runtime-main.js": "/myCV/static/js/runtime-main.4cf0c023.js",
+    "runtime-main.js.map": "/myCV/static/js/runtime-main.4cf0c023.js.map",
+    "static/js/2.c704db59.chunk.js": "/myCV/static/js/2.c704db59.chunk.js",
+    "static/js/2.c704db59.chunk.js.map": "/myCV/static/js/2.c704db59.chunk.js.map",
+    "static/js/3.a91a9be7.chunk.js": "/myCV/static/js/3.a91a9be7.chunk.js",
+    "static/js/3.a91a9be7.chunk.js.map": "/myCV/static/js/3.a91a9be7.chunk.js.map",
+    "index.html": "/myCV/index.html",
+    "static/css/main.426af60f.chunk.css.map": "/myCV/static/css/main.426af60f.chunk.css.map",
+    "static/js/2.c704db59.chunk.js.LICENSE.txt": "/myCV/static/js/2.c704db59.chunk.js.LICENSE.txt",
+    "static/media/Presentation.css": "/myCV/static/media/mygif.430fcad7.gif",
+    "static/media/imagen5.0ffa9906.jpg": "/myCV/static/media/imagen5.0ffa9906.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf0c023.js",
+    "static/js/2.c704db59.chunk.js",
+    "static/css/main.426af60f.chunk.css",
+    "static/js/main.ea0bd3f8.chunk.js"
+  ]
+}
